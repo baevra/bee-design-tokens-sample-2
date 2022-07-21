@@ -1,0 +1,96 @@
+- name: $title.m
+  description: Стиль для самых крупных акцидентных заголовков в интерфейсе
+  value:
+    default:
+      font: unknown
+      size: 32
+      leading: 1
+      tracking: 1
+- name: $title.s
+  description: Заголовок второго уровня
+  value:
+    default:
+      font: unknown
+      size: 24
+      leading: 1
+      tracking: 1
+- name: $head.bold
+  description: Заголовок второго уровня
+  value:
+    default:
+      font: unknown
+      size: 20
+      leading: 1
+      tracking: 1
+- name: $head.med
+  description: Заголовок в карточках и баннерах
+  value:
+    default:
+      font: unknown
+      size: 20
+      leading: 1
+      tracking: 1
+- name: $body.m.med
+  description: Заголовок в карточках
+  value:
+    default:
+      font: unknown
+      size: 18
+      leading: 1
+      tracking: 1
+- name: $body.m.reg
+  description: Подзаголовок в карточках
+  value:
+    default:
+      font: unknown
+      size: 18
+      leading: 1
+      tracking: 1
+- name: $body.s.med
+  description: Ссылки в основном тексте
+  value:
+    default:
+      font: unknown
+      size: 16
+      leading: 1
+      tracking: 1
+- name: $body.s.reg
+  description: Основной текст
+  value:
+    default:
+      font: unknown
+      size: 16
+      leading: 1
+      tracking: 1
+- name: $collout.med
+  description: Выделение ссылок в тексте над кнопкой
+  value:
+    default:
+      font: unknown
+      size: 14
+      leading: 1
+      tracking: 1
+- name: $collout.reg
+  description: Текст над кнопкой
+  value:
+    default:
+      font: unknown
+      size: 14
+      leading: 1
+      tracking: 1
+- name: $caption.med
+  description: '?'
+  value:
+    default:
+      font: unknown
+      size: 32
+      leading: 1
+      tracking: 1
+- name: $caption.reg
+  description: Подписи под табами на главном экране, юридическая инфа под или над кнопкой
+  value:
+    default:
+      font: unknown
+      size: 12
+      leading: 1
+      tracking: 1
