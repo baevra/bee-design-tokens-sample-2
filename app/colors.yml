@@ -1,0 +1,5 @@
+- name: $content.primary
+  description: contentPrimary
+  value:
+    light: '#0a2762'
+    dark: $totalwhite
