@@ -1,10 +1,4 @@
-- name: $content.primary
-  description: contentPrimary
+- name: $test
   value:
-    light: $gray95
-    dark: $totalwhite
-- name: $content.secondary
-  description: contentSecondary
-  value:
-    light: $gray60
-    dark: $gray40
+    light: '#bb3f3f'
+    dark: '#383ed1'
