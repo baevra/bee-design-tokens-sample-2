@@ -1,224 +1,230 @@
-- name: $content_primary
+- name: $content.primary
+  description: contentPrimary
   value:
-    light: '#083729'
-    dark: '#ffffff'
-- name: $shape_static
+    light: $gray95
+    dark: $totalwhite
+- name: $content.secondary
+  description: contentSecondary
   value:
-    light: '#ffe632'
-    dark: '#ffe632'
-- name: $warning
+    light: $gray60
+    dark: $gray40
+- name: $content.disabled
+  description: contentDisabled
   value:
-    light: '#f45151'
-    dark: '#f45151'
-- name: $content_secondary
+    light: $gray40
+    dark: $gray60
+- name: $content.placeholder
+  description: contentPlaceholder
   value:
-    light: '#727281'
-    dark: '#bebec9'
-- name: $content_disabled
+    light: $gray40
+    dark: $gray60
+- name: $background.primary
+  description: Color contrast with...
   value:
-    light: '#bebec9'
-    dark: '#727281'
-- name: $content_plaseholder
+    light: $gray05
+    dark: $gray90
+- name: $background.secondary
+  description: Color contrast with...
   value:
-    light: '#bebec9'
-    dark: '#727281'
-- name: $shape_primary
+    light: $gray20
+    dark: $gray80
+- name: $background.tertiary
   value:
-    light: '#f9f9f9'
-    dark: '#2c2d37'
-- name: $shape_secondary
+    light: $totalwhite
+    dark: $gray95
+- name: $background.disabled
+  description: Color contrast with...
   value:
-    light: '#dfe0e5'
-    dark: '#363b4a'
-- name: $shape_tertiary
+    light: $gray20
+    dark: $gray80
+- name: $borders.default
+  description: Color contrast with...
   value:
-    light: '#ffffff'
-    dark: '#191c22'
-- name: $shape_disabled
+    light: $gray20
+    dark: $gray70
+- name: $borders.active
+  description: Color contrast with...
   value:
-    light: '#dfe0e5'
-    dark: '#363b4a'
-- name: $borders
+    light: $gray95
+    dark: $totalwhite
+- name: $call_to_action.default
+  description: statusYellow
   value:
-    light: '#dfe0e5'
-    dark: '#434856'
-- name: $borders_active
+    light: $lemon
+    dark: $lemon
+- name: $call_to_action.hover
+  description: Color contrast with...
   value:
-    light: '#191c22'
-    dark: '#ffffff'
-- name: $divider
+    light: $gold50
+    dark: $gold50
+- name: $call_to_action.pressed
+  description: Color contrast with...
   value:
-    light: '#dfe0e5'
-    dark: '#434856'
-- name: $contrast_primary
+    light: $beeline50
+    dark: $beeline50
+- name: $system.background
+  description: Color contrast with...
   value:
-    light: '#191c22'
-    dark: '#ffffff'
-- name: $contrast_content
+    light: $totalwhite
+    dark: $gray95
+- name: $system.swipe_indicator
+  description: Color contrast with...
   value:
-    light: '#ffffff'
-    dark: '#191c22'
-- name: $contrast_content_sec
+    light: $gray50
+    dark: $gray50
+- name: $system.success
+  description: Color contrast with...
   value:
-    light: '#bebec9'
-    dark: '#727281'
-- name: $bg_decorative1
+    light: $green50
+    dark: $green50
+- name: $system.warning
+  description: Color contrast with...
   value:
-    light: '#fffbed'
-    dark: '#433c2b'
-- name: $bg_decorative2
+    light: $red
+    dark: $red
+- name: $static.background
+  description: Color contrast with...
   value:
-    light: '#fff9e8'
-    dark: '#443a27'
-- name: $bg_decorative3
+    light: $totalblack
+    dark: $totalblack
+- name: $static.content
+  description: Color contrast with...
   value:
-    light: '#ffebe3'
-    dark: '#462621'
-- name: $bg_decorative4
+    light: $totalwhite
+    dark: $totalwhite
+- name: $contrast.primary
+  description: Color contrast with...
   value:
-    light: '#ffeaf2'
-    dark: '#3f2435'
-- name: $bg_decorative5
+    light: $gray95
+    dark: $totalwhite
+- name: $contrast.secondary
+  description: Color contrast with...
   value:
-    light: '#eee4f9'
-    dark: '#29223f'
-- name: $bg_decorative6
+    light: $gray40
+    dark: $gray60
+- name: $contrast.content
+  description: Color contrast with...
   value:
-    light: '#e9f7f4'
-    dark: '#22393a'
-- name: $background
+    light: $totalwhite
+    dark: $gray95
+- name: $accent.blue
+  description: Color contrast with...
   value:
-    light: '#ffffff'
-    dark: '#191c22'
-- name: $loading1
+    light: $blue50
+    dark: $blue50
+- name: $accent.pink
+  description: Color contrast with...
   value:
-    light: '#f9f9f9'
-    dark: '#727281'
-- name: $loading2
+    light: $magenta50
+    dark: $magenta50
+- name: $accent.mint
+  description: Color contrast with...
   value:
-    light: '#dfe0e5'
-    dark: '#2c2d37'
-- name: $swipe_indicator
+    light: $aquamarine50
+    dark: $aquamarine50
+- name: $accent.purple
+  description: Color contrast with...
   value:
-    light: '#8e8e9f'
-    dark: '#8e8e9f'
-- name: $chart1
+    light: $violet50
+    dark: $violet50
+- name: $accent.yellow
   value:
-    light: '#ffe890'
-    dark: '#6f6032'
-- name: $chart2
+    light: $gold50
+    dark: $gold50
+- name: $banners.decorative1
   value:
-    light: '#ffdd80'
-    dark: '#705a29'
-- name: $chart3
+    light: $gold
+    dark: $gold90
+- name: $banners.decorative2
   value:
-    light: '#b6e6dc'
-    dark: '#2a7870'
-- name: $chart4
+    light: $beeline0
+    dark: $beeline90
+- name: $banners.decorative3
   value:
-    light: '#a3e8b8'
-    dark: '#298152'
-- name: $chart5
+    light: $scarlet
+    dark: $scarlet90
+- name: $banners.decorative4
   value:
-    light: '#abc5ff'
-    dark: '#2d5e9f'
-- name: $chart6
+    light: $magenta
+    dark: $magenta90
+- name: $banners.decorative5
   value:
-    light: '#a1a4e8'
-    dark: '#1e46a7'
-- name: $chart7
+    light: $violet
+    dark: $violet90
+- name: $banners.decorative6
   value:
-    light: '#c7aceb'
-    dark: '#562fa4'
-- name: $chart8
+    light: $aquamarine
+    dark: $aquamarine90
+- name: $charts_default.chart1
   value:
-    light: '#fdb1d0'
-    dark: '#8f275f'
-- name: $chart9
+    light: $gold20
+    dark: $gold20
+- name: $charts_default.chart2
   value:
-    light: '#ffb69b'
-    dark: '#9d321a'
-- name: $chart1_active
+    light: $beeline20
+    dark: $beeline20
+- name: $charts_default.chart3
   value:
-    light: '#ffe069'
-    dark: '#433c2b'
-- name: $chart2_active
+    light: $aquamarine05
+    dark: $aquamarine05
+- name: $charts_default.chart4
   value:
-    light: '#ffd252'
-    dark: '#443a27'
-- name: $chart3_active
+    light: $green05
+    dark: $green05
+- name: $charts_default.chart5
   value:
-    light: '#8fd9cb'
-    dark: '#285754'
-- name: $chart4_active
+    light: $blue05
+    dark: $blue05
+- name: $charts_default.chart6
   value:
-    light: '#81e0a1'
-    dark: '#285d41'
-- name: $chart5_active
+    light: $sapphire05
+    dark: $sapphire05
+- name: $charts_default.chart7
   value:
-    light: '#8bb3ff'
-    dark: '#2a4772'
-- name: $chart6_active
+    light: $violet05
+    dark: $violet05
+- name: $charts_default.chart8
   value:
-    light: '#7e87df'
-    dark: '#253b83'
-- name: $chart7_active
+    light: $magenta05
+    dark: $magenta05
+- name: $charts_default.chart9
   value:
-    light: '#aa83e0'
-    dark: '#472c81'
-- name: $chart8_active
+    light: $scarlet05
+    dark: $scarlet05
+- name: $charts_active.chart1_active
   value:
-    light: '#f888b8'
-    dark: '#672849'
-- name: $chart9_active
+    light: $gold40
+    dark: $gold40
+- name: $charts_active.chart2_active
   value:
-    light: '#ffb69b'
-    dark: '#712d1e'
-- name: $shape_static_hover
+    light: $beeline40
+    dark: $beeline40
+- name: $charts_active.chart3_active
   value:
-    light: '#ffd93a'
-    dark: '#ffd93a'
-- name: $shape_static_pressed
+    light: $aquamarine20
+    dark: $aquamarine20
+- name: $charts_active.chart4_active
   value:
-    light: '#ffc800'
-    dark: '#ffc800'
-- name: $content_sienna
+    light: $green20
+    dark: $green20
+- name: $charts_active.chart6_active
   value:
-    light: '#c29553'
-    dark: '#c29553'
-- name: $content_black
+    light: $sapphire20
+    dark: $sapphire20
+- name: $charts_active.chart7_active
   value:
-    light: '#08080a'
-    dark: '#08080a'
-- name: $content_white
+    light: $violet20
+    dark: $violet20
+- name: $charts_active.chart8_active
   value:
-    light: '#ffffff'
-    dark: '#ffffff'
-- name: $success
+    light: $magenta20
+    dark: $magenta20
+- name: $charts_active.chart9_active
   value:
-    light: '#e9faed'
-    dark: '#e9faed'
-- name: $totalgray40
+    light: $scarlet20
+    dark: $scarlet20
+- name: $switchers.lock
+  description: Color contrast with...
   value:
-    light: '#bebec9'
-    dark: '#bebec9'
-- name: $totalgray60
-  value:
-    light: '#727281'
-    dark: '#727281'
-- name: $content_accent1
-  value:
-    light: '#ebf0ff'
-    dark: '#ebf0ff'
-- name: $content_accent2
-  value:
-    light: '#ffeaf2'
-    dark: '#ffeaf2'
-- name: $content_accent3
-  value:
-    light: '#e9f7f4'
-    dark: '#e9f7f4'
-- name: $content_accent4
-  value:
-    light: '#eee4f9'
-    dark: '#eee4f9'
+    light: $sienna
+    dark: $sienna

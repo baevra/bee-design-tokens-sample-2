@@ -1,0 +1,314 @@
+- name: $totalblack
+  value: "#08080A"
+
+- name: $gray95
+  value: "#191C22"
+
+- name: $gray90
+  value: "#2C2D37"
+
+- name: $gray80
+  value: "#363B4A"
+
+- name: $gray70
+  value: "#434856"
+
+- name: $gray60
+  value: "#727281"
+
+- name: $gray50
+  value: "#8E8E9F"
+
+- name: $gray40
+  value: "#BEBEC9"
+
+- name: $gray20
+  value: "#DFE0E5"
+
+- name: $gray05
+  value: "#F9F9F9"
+
+- name: $gray0
+  value: "#FBFBFB"
+
+- name: $totalwhite
+  value: "#FFFFFF"
+
+- name: $gold90
+  value: "#433C2B"
+
+- name: $gold80
+  value: "#6F6032"
+
+- name: $gold70
+  value: "#9D8637"
+
+- name: $gold60
+  value: "#CDAF3A"
+
+- name: $gold50
+  value: "#FFD93A"
+
+- name: $gold40
+  value: "#FFE069"
+
+- name: $gold20
+  value: "#FFE890"
+
+- name: $gold05
+  value: "#FFEFB5"
+
+- name: $gold0
+  value: "#FFF7DA"
+
+- name: $gold
+  value: "#FFFBED"
+
+- name: $beeline90
+  value: "#443A27"
+
+- name: $beeline80
+  value: "#705A29"
+
+- name: $beeline70
+  value: "#9D7D27"
+
+- name: $beeline60
+  value: "#CDA21F"
+
+- name: $beeline50
+  value: "#FFC800"
+
+- name: $beeline40
+  value: "#FFD252"
+
+- name: $beeline20
+  value: "#FFDD80"
+
+- name: $beeline05
+  value: "#FFE8AB"
+
+- name: $beeline0
+  value: "#FFF5DC"
+
+- name: $beeline
+  value: "#FFF9E8"
+
+- name: $scarlet90
+  value: "#462621"
+
+- name: $scarlet80
+  value: "#712D1E"
+
+- name: $scarlet70
+  value: "#9D321A"
+
+- name: $scarlet60
+  value: "#CB3412"
+
+- name: $scarlet50
+  value: "#FA3300"
+
+- name: $scarlet40
+  value: "#FF683C"
+
+- name: $scarlet20
+  value: "#FF916B"
+
+- name: $scarlet05
+  value: "#FFB69B"
+
+- name: $scarlet0
+  value: "#FFE1D4"
+
+- name: $scarlet
+  value: "#FFEBE3"
+
+- name: $magenta90
+  value: "#3F2435"
+
+- name: $magenta80
+  value: "#672849"
+
+- name: $magenta70
+  value: "#8F275F"
+
+- name: $magenta60
+  value: "#BA2075"
+
+- name: $magenta50
+  value: "#E6008C"
+
+- name: $magenta40
+  value: "#F05AA2"
+
+- name: $magenta20
+  value: "#F888B8"
+
+- name: $magenta05
+  value: "#FDB1D0"
+
+- name: $magenta0
+  value: "#FFDFEB"
+
+- name: $magenta
+  value: "#FFEAF2"
+
+- name: $violet90
+  value: "#29223F"
+
+- name: $violet80
+  value: "#38275F"
+
+- name: $violet70
+  value: "#472C81"
+
+- name: $violet60
+  value: "#562FA4"
+
+- name: $violet50
+  value: "#6432C8"
+
+- name: $violet40
+  value: "#895BD4"
+
+- name: $violet20
+  value: "#AA83E0"
+
+- name: $violet05
+  value: "#C7ACEB"
+
+- name: $violet0
+  value: "#E8DCF7"
+
+- name: $violet
+  value: "#EEE4F9"
+
+- name: $sapphire90
+  value: "#212640"
+
+- name: $sapphire80
+  value: "#253061"
+
+- name: $sapphire70
+  value: "#253B83"
+
+- name: $sapphire60
+  value: "#1E46A7"
+
+- name: $sapphire50
+  value: "#0052CD"
+
+- name: $sapphire40
+  value: "#556CD6"
+
+- name: $sapphire20
+  value: "#7E87DF"
+
+- name: $sapphire05
+  value: "#A1A4E8"
+
+- name: $sapphire0
+  value: "#E1E0F8"
+
+- name: $sapphire
+  value: "#E8E7F9"
+
+- name: $blue90
+  value: "#243148"
+
+- name: $blue80
+  value: "#2A4772"
+
+- name: $blue70
+  value: "#2D5E9F"
+
+- name: $blue60
+  value: "#2877CE"
+
+- name: $blue50
+  value: "#1790FF"
+
+- name: $blue40
+  value: "#62A1FF"
+
+- name: $blue20
+  value: "#8BB3FF"
+
+- name: $blue05
+  value: "#ABC5FF"
+
+- name: $blue0
+  value: "#E5EBFF"
+
+- name: $blue
+  value: "#EBF0FF"
+
+- name: $aquamarine90
+  value: "#22393A"
+
+- name: $aquamarine80
+  value: "#285754"
+
+- name: $aquamarine70
+  value: "#2A7870"
+
+- name: $aquamarine60
+  value: "#289A8C"
+
+- name: $aquamarine50
+  value: "#1EBEAA"
+
+- name: $aquamarine40
+  value: "#63CCBA"
+
+- name: $aquamarine20
+  value: "#8FD9CB"
+
+- name: $aquamarine05
+  value: "#B6E6DC"
+
+- name: $aquamarine0
+  value: "#E1F5F0"
+
+- name: $aquamarine
+  value: "#E9F7F4"
+
+- name: $green90
+  value: "#233B32"
+
+- name: $green80
+  value: "#285D41"
+
+- name: $green70
+  value: "#298152"
+
+- name: $green60
+  value: "#23A762"
+
+- name: $green50
+  value: "#0BCE73"
+
+- name: $green40
+  value: "#58D78A"
+
+- name: $green20
+  value: "#81E0A1"
+
+- name: $green05
+  value: "#A3E8B8"
+
+- name: $green0
+  value: "#E1F8E7"
+
+- name: $green
+  value: "#E9FAED"
+
+- name: $red
+  value: "#F45151"
+
+- name: $lemon
+  value: "#FFE632"
+
+- name: $sienna
+  value: "#C29553"
