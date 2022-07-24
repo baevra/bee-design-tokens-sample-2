@@ -1,6 +1,6 @@
 - name: $pink
   value:
-    light: '#e232ff'
+    light: '#9b12b1'
     dark: '#a800c4'
 - name: $content.primary
   description: contentPrimary
